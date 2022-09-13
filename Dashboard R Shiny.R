@@ -10,7 +10,7 @@ library(leaflet)
 library(leafpop)
 # esquisse::esquisser()
 
-setwd("C:/Users/Tiaranisa/Documents/aaaaa mata kuliah/6 Sistem Informasi Manajemen/pasca ETS/Project")
+setwd("D:/S1 Sarjana/Semester 6/SIM/Project Shiny R")
 
 pelanggan<-read_excel("databasepln.xlsx", sheet="JPel")
 pendapatan<-read_excel("databasepln.xlsx", sheet="PPen")
